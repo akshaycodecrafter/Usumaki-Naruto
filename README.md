@@ -32,7 +32,7 @@ A minimalist personal portfolio concept for a designer-engineer hybrid. I wanted
 
 _Tested on Chrome, Firefox, and Safari — fully responsive down to 375px._
 
-Live: [add Cloudflare URL after deploying]
+Live: https://claude-minimalist.akshaycodecrafter.workers.dev/#
 
 ## What's on the Page
 - **Hero** — a single headline, a short intro line, two CTAs
