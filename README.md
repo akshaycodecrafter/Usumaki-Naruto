@@ -1,4 +1,4 @@
-# Claude Minimalist — Designer & Engineer Portfolio
+# Terra Minimal — Designer & Engineer Portfolio
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ A minimalist personal portfolio concept for a designer-engineer hybrid. I wanted
 
 _Tested on Chrome, Firefox, and Safari — fully responsive down to 375px._
 
-Live: https://claude-minimalist.akshaycodecrafter.workers.dev/#
+Live: https://terra-minimal.akshaycodecrafter.workers.dev/#
 
 ## What's on the Page
 - **Hero** — a single headline, a short intro line, two CTAs
