@@ -1,4 +1,4 @@
-# Terra Minimal — Designer & Engineer Portfolo
+# Terra Minimal — Designer & Engineer Portfolio
 
 Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 
@@ -12,7 +12,7 @@ Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 *The hero — headline, intro line, and the two CTAs.*
 
 ![Selected work](assets/preview-work.png)
-*Selected work cards — Fold, Stream, and Northwind Studio.*
+*Selected work cards — Ledgerly, Waveform, and Greywood Studio.*
 
 ![Process section](assets/preview-process.png)
 *"How I work" — a code-editor mockup paired with a short explanation of the process.*
@@ -26,6 +26,7 @@ Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 - [Built With](#built-with)
 - [Why I Built It This Way](#why-i-built-it-this-way)
 - [Running It Locally](#running-it-locally)
+- [Status](#status)
 - [Credits](#credits)
 - [License](#license)
 
@@ -34,7 +35,7 @@ A minimalist personal portfolio concept for a designer-engineer hybrid. I wanted
 
 _Tested on Chrome, Firefox, and Safari — fully responsive down to 375px._
 
-Live: https://terra-minimal.akshaycodecrafter.workers.dev/#
+Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 
 ## What's on the Page
 - **Hero** — a single headline, a short intro line, two CTAs
@@ -56,10 +57,14 @@ Most portfolio templates lean on big gradients or a hero video to feel "premium.
 
 ## Running It Locally
 ```bash
-git clone [repo url]
-cd [project-folder]
+git clone https://github.com/akshaycrafter/Terra-Minimal.git
+cd Terra-Minimal
 # just open index.html in your browser — no build step needed
 ```
+
+## Status
+
+Demo / concept build. Contact details, work history, and external links are illustrative and not tied to a real business or person.
 
 ## Credits
 - Fonts: [Fraunces](https://fonts.google.com/specimen/Fraunces) and [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
