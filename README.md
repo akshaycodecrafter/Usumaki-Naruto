@@ -12,7 +12,7 @@ Live: https://terra-minimal.akshaycodecrafter.workers.dev/
 *The hero — headline, intro line, and the two CTAs.*
 
 ![Selected work](assets/preview-work.png)
-*Selected work cards — Ledgerly, Waveform, and Greywood Studio.*
+*Selected work cards — Ledgerbloom, Soundtrail, and Greywood Studio.*
 
 ![Process section](assets/preview-process.png)
 *"How I work" — a code-editor mockup paired with a short explanation of the process.*
